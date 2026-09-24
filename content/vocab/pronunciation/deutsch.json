@@ -1,0 +1,570 @@
+[
+  {
+    "id": "de-pron-01",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 1,
+    "front": "bieten",
+    "back": "đề nghị, cung cấp",
+    "pronunciation": {
+      "topic": "Vokallänge",
+      "hint_de": "Bei „bieten“ ist das i lang und gespannt, bei „bitten“ kurz und lockerer.",
+      "hint_vi": "Trong „bieten“, âm i dài và căng hơn; trong „bitten“, âm i ngắn và thả lỏng hơn. Đừng chỉ nhìn số lượng chữ cái.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "bieten",
+          "translation": "đề nghị, cung cấp",
+          "audio": "content/vocab/audio/clips/de-pron-01-1.mp3"
+        },
+        {
+          "text": "bitten",
+          "translation": "nhờ, yêu cầu",
+          "audio": "content/vocab/audio/clips/de-pron-01-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-02",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 1,
+    "front": "Ofen",
+    "back": "lò",
+    "pronunciation": {
+      "topic": "Vokallänge",
+      "hint_de": "Vergleiche den langen, geschlossenen o-Laut in „Ofen“ mit dem kurzen, offenen in „offen“.",
+      "hint_vi": "So sánh âm o dài, khép hơn trong „Ofen“ với âm o ngắn, mở hơn trong „offen“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Ofen",
+          "translation": "lò",
+          "audio": "content/vocab/audio/clips/de-pron-02-1.mp3"
+        },
+        {
+          "text": "offen",
+          "translation": "mở",
+          "audio": "content/vocab/audio/clips/de-pron-02-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-03",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 1,
+    "front": "Staat",
+    "back": "nhà nước",
+    "pronunciation": {
+      "topic": "Vokallänge",
+      "hint_de": "Halte das a in „Staat“ länger. In „Stadt“ ist es kurz. Beide Wörter enden auf einen t-Laut.",
+      "hint_vi": "Kéo dài âm a trong „Staat“. Trong „Stadt“, âm a ngắn. Cả hai từ đều kết thúc bằng âm t.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Staat",
+          "translation": "nhà nước",
+          "audio": "content/vocab/audio/clips/de-pron-03-1.mp3"
+        },
+        {
+          "text": "Stadt",
+          "translation": "thành phố",
+          "audio": "content/vocab/audio/clips/de-pron-03-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-04",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 1,
+    "front": "fühlen",
+    "back": "cảm thấy",
+    "pronunciation": {
+      "topic": "Vokallänge",
+      "hint_de": "Die Lippen sind gerundet. Vergleiche langes ü in „fühlen“ und kurzes ü in „füllen“.",
+      "hint_vi": "Tròn môi. So sánh âm ü dài trong „fühlen“ và âm ü ngắn trong „füllen“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "fühlen",
+          "translation": "cảm thấy",
+          "audio": "content/vocab/audio/clips/de-pron-04-1.mp3"
+        },
+        {
+          "text": "füllen",
+          "translation": "làm đầy",
+          "audio": "content/vocab/audio/clips/de-pron-04-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-05",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 2,
+    "front": "schon",
+    "back": "đã",
+    "pronunciation": {
+      "topic": "Ö und Ü",
+      "hint_de": "Für ö: Beginne mit e und runde die Lippen, ohne die Zunge nach hinten zu ziehen.",
+      "hint_vi": "Để tập âm ö: bắt đầu từ âm e, rồi tròn môi nhưng giữ lưỡi ở phía trước.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "schon",
+          "translation": "đã",
+          "audio": "content/vocab/audio/clips/de-pron-05-1.mp3"
+        },
+        {
+          "text": "schön",
+          "translation": "đẹp",
+          "audio": "content/vocab/audio/clips/de-pron-05-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-06",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 2,
+    "front": "Bruder",
+    "back": "anh/em trai",
+    "pronunciation": {
+      "topic": "Ö und Ü",
+      "hint_de": "Für ü: Sprich i und runde dabei die Lippen. Die Zunge bleibt vorn.",
+      "hint_vi": "Để tập âm ü: phát âm i rồi tròn môi. Giữ lưỡi ở phía trước; đừng chuyển thành u.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Bruder",
+          "translation": "anh/em trai",
+          "audio": "content/vocab/audio/clips/de-pron-06-1.mp3"
+        },
+        {
+          "text": "Brüder",
+          "translation": "các anh/em trai",
+          "audio": "content/vocab/audio/clips/de-pron-06-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-07",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 2,
+    "front": "Buch",
+    "back": "quyển sách",
+    "pronunciation": {
+      "topic": "Ö und Ü",
+      "hint_de": "Achte auf u und ü. Auch ch klingt anders: hinten in „Buch“, weiter vorn in „Bücher“.",
+      "hint_vi": "Chú ý sự khác nhau giữa u và ü. Âm ch cũng khác: ở phía sau trong „Buch“, phía trước hơn trong „Bücher“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Buch",
+          "translation": "quyển sách",
+          "audio": "content/vocab/audio/clips/de-pron-07-1.mp3"
+        },
+        {
+          "text": "Bücher",
+          "translation": "những quyển sách",
+          "audio": "content/vocab/audio/clips/de-pron-07-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-08",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 2,
+    "front": "Mutter",
+    "back": "mẹ",
+    "pronunciation": {
+      "topic": "Ö und Ü",
+      "hint_de": "Beide ersten Vokale sind kurz. Bei ü bleibt die Zunge weiter vorn als bei u.",
+      "hint_vi": "Nguyên âm đầu của cả hai từ đều ngắn. Với ü, lưỡi ở phía trước hơn so với u.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Mutter",
+          "translation": "mẹ",
+          "audio": "content/vocab/audio/clips/de-pron-08-1.mp3"
+        },
+        {
+          "text": "Mütter",
+          "translation": "các bà mẹ",
+          "audio": "content/vocab/audio/clips/de-pron-08-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-09",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 3,
+    "front": "ein",
+    "back": "một",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "Höre auf das zusätzliche s am Ende von „eins“. Füge danach keinen Vokal hinzu.",
+      "hint_vi": "Nghe âm s thêm ở cuối „eins“. Đừng thêm nguyên âm sau âm s.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "ein",
+          "translation": "một",
+          "audio": "content/vocab/audio/clips/de-pron-09-1.mp3"
+        },
+        {
+          "text": "eins",
+          "translation": "số một",
+          "audio": "content/vocab/audio/clips/de-pron-09-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-10",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 3,
+    "front": "sie",
+    "back": "cô ấy; họ",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "„Sieht“ hat am Ende einen t-Laut. Das h ist kein eigener Laut.",
+      "hint_vi": "„Sieht“ kết thúc bằng âm t. Chữ h ở đây không được phát âm riêng.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "sie",
+          "translation": "cô ấy; họ",
+          "audio": "content/vocab/audio/clips/de-pron-10-1.mp3"
+        },
+        {
+          "text": "sieht",
+          "translation": "nhìn thấy",
+          "audio": "content/vocab/audio/clips/de-pron-10-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-11",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 3,
+    "front": "mein",
+    "back": "của tôi",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "In „meint“ folgt nach n noch t. Übe das Wortende langsam, ohne eine Silbe einzuschieben.",
+      "hint_vi": "Trong „meint“, sau n còn có t. Luyện chậm phần cuối từ, không chèn thêm âm tiết.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "mein",
+          "translation": "của tôi",
+          "audio": "content/vocab/audio/clips/de-pron-11-1.mp3"
+        },
+        {
+          "text": "meint",
+          "translation": "có ý là",
+          "audio": "content/vocab/audio/clips/de-pron-11-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-12",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 3,
+    "front": "Reis",
+    "back": "gạo; cơm",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "Achte in „reist“ auf die ganze Endung st. Das s am Wortende ist stimmlos.",
+      "hint_vi": "Chú ý phát âm đủ cụm st ở cuối „reist“. Âm s ở cuối từ là âm vô thanh.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Reis",
+          "translation": "gạo; cơm",
+          "audio": "content/vocab/audio/clips/de-pron-12-1.mp3"
+        },
+        {
+          "text": "reist",
+          "translation": "đi du lịch",
+          "audio": "content/vocab/audio/clips/de-pron-12-2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-13",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 4,
+    "front": "Straße",
+    "back": "đường phố",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Am Wortanfang klingt st wie sch + t. Verbinde die Laute ohne zusätzlichen Vokal.",
+      "hint_vi": "Ở đầu từ „Straße“, st được phát âm như sch + t. Nối các âm, không chèn thêm nguyên âm.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Straße",
+          "translation": "đường phố",
+          "audio": "content/vocab/audio/clips/de-pron-13-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-14",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 4,
+    "front": "sprichst",
+    "back": "bạn nói",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Beginne mit sch + p. Achte am Ende auf ch + s + t. Übe langsam, dann zusammenhängend.",
+      "hint_vi": "Bắt đầu bằng sch + p. Cuối từ có ch + s + t. Luyện chậm rồi nối liền các âm.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "sprichst",
+          "translation": "bạn nói",
+          "audio": "content/vocab/audio/clips/de-pron-14-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-15",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 4,
+    "front": "Herbst",
+    "back": "mùa thu",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Am Ende hörst du p + s + t. Das geschriebene b klingt hier wie p. Keine zusätzliche Silbe.",
+      "hint_vi": "Cuối từ có p + s + t. Chữ b ở đây nghe như p. Đừng thêm âm tiết.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Herbst",
+          "translation": "mùa thu",
+          "audio": "content/vocab/audio/clips/de-pron-15-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-16",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 4,
+    "front": "fünf",
+    "back": "năm",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Beginne und ende mit f. Bei f berühren die oberen Schneidezähne leicht die Unterlippe.",
+      "hint_vi": "Bắt đầu và kết thúc bằng f. Khi phát âm f, răng cửa trên chạm nhẹ môi dưới.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "fünf",
+          "translation": "năm",
+          "audio": "content/vocab/audio/clips/de-pron-16-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-17",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 5,
+    "front": "ich",
+    "back": "tôi",
+    "pronunciation": {
+      "topic": "Ich, Ach und Sch",
+      "hint_de": "Für den Ich-Laut liegt die Zunge weit vorn. Lass Luft durch einen engen Spalt strömen; kein sch.",
+      "hint_vi": "Với âm ch trong „ich“, lưỡi ở phía trước. Cho luồng hơi đi qua khe hẹp; đừng thay bằng sch.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "ich",
+          "translation": "tôi",
+          "audio": "content/vocab/audio/clips/de-pron-17-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-18",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 5,
+    "front": "Buch",
+    "back": "quyển sách",
+    "pronunciation": {
+      "topic": "Ich, Ach und Sch",
+      "hint_de": "Nach u entsteht ch weiter hinten im Mund. Höre den Unterschied zu „ich“.",
+      "hint_vi": "Sau u, âm ch được tạo ở phía sau khoang miệng. Nghe sự khác nhau với „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Buch",
+          "translation": "quyển sách",
+          "audio": "content/vocab/audio/clips/de-pron-18-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-19",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 5,
+    "front": "Schule",
+    "back": "trường học",
+    "pronunciation": {
+      "topic": "Ich, Ach und Sch",
+      "hint_de": "Bei sch die Lippen etwas vorstülpen. Lass die Luft gleichmäßig strömen.",
+      "hint_vi": "Khi phát âm sch, đưa môi hơi ra phía trước. Giữ luồng hơi đều.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Schule",
+          "translation": "trường học",
+          "audio": "content/vocab/audio/clips/de-pron-19-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-20",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 5,
+    "front": "Küche",
+    "back": "nhà bếp",
+    "pronunciation": {
+      "topic": "Ich, Ach und Sch",
+      "hint_de": "Sprich kurzes ü, dann den Ich-Laut. Achte darauf, ch nicht durch sch zu ersetzen.",
+      "hint_vi": "Phát âm ü ngắn rồi đến âm ch như trong „ich“. Đừng thay ch bằng sch.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Küche",
+          "translation": "nhà bếp",
+          "audio": "content/vocab/audio/clips/de-pron-20-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-21",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 6,
+    "front": "Ich möchte einen Kaffee.",
+    "back": "Tôi muốn một ly cà phê.",
+    "pronunciation": {
+      "topic": "Satzbetonung",
+      "hint_de": "Betone bei einer neutralen Bestellung die erste Silbe von „Kaffee“. Die kleinen Wörter bleiben leichter.",
+      "hint_vi": "Khi gọi món bình thường, nhấn âm tiết đầu của „Kaffee“. Các từ còn lại nhẹ hơn.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Ich möchte einen Kaffee.",
+          "translation": "Tôi muốn một ly cà phê.",
+          "audio": "content/vocab/audio/clips/de-pron-21-1.mp3"
+        }
+      ],
+      "emphasis": "Kaf"
+    }
+  },
+  {
+    "id": "de-pron-22",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 6,
+    "front": "Ich habe einen Termin.",
+    "back": "Tôi có một cuộc hẹn.",
+    "pronunciation": {
+      "topic": "Satzbetonung",
+      "hint_de": "Betone die zweite Silbe von „Termin“. Sprich den Satz als zusammenhängende Gruppe.",
+      "hint_vi": "Nhấn âm tiết thứ hai của „Termin“. Nói cả câu thành một cụm liền mạch.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Ich habe einen Termin.",
+          "translation": "Tôi có một cuộc hẹn.",
+          "audio": "content/vocab/audio/clips/de-pron-22-1.mp3"
+        }
+      ],
+      "emphasis": "min"
+    }
+  },
+  {
+    "id": "de-pron-23",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 6,
+    "front": "Ich hätte gern ein Brot.",
+    "back": "Tôi muốn mua một ổ bánh mì.",
+    "pronunciation": {
+      "topic": "Satzbetonung",
+      "hint_de": "Betone „Brot“. Achte auf das t am Ende, ohne eine weitere Silbe anzuhängen.",
+      "hint_vi": "Nhấn từ „Brot“. Chú ý âm t cuối từ, không thêm âm tiết phía sau.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Ich hätte gern ein Brot.",
+          "translation": "Tôi muốn mua một ổ bánh mì.",
+          "audio": "content/vocab/audio/clips/de-pron-23-1.mp3"
+        }
+      ],
+      "emphasis": "Brot"
+    }
+  },
+  {
+    "id": "de-pron-24",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 6,
+    "front": "Wann fährt der Zug?",
+    "back": "Khi nào tàu chạy?",
+    "pronunciation": {
+      "topic": "Satzbetonung",
+      "hint_de": "Betone bei der neutralen Frage „Zug“. Das z klingt wie t + s; das g am Ende wie k.",
+      "hint_vi": "Trong câu hỏi thông thường, nhấn „Zug“. Chữ z nghe như t + s; chữ g cuối từ nghe như k.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Wann fährt der Zug?",
+          "translation": "Khi nào tàu chạy?",
+          "audio": "content/vocab/audio/clips/de-pron-24-1.mp3"
+        }
+      ],
+      "emphasis": "Zug"
+    }
+  }
+]

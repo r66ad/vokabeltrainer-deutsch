@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "languages": {
+    "front": {
+      "code": "de",
+      "name": "Deutsch",
+      "alphabet": "abcdefghijklmnopqrstuvwxyzäöüß"
+    },
+    "back": {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "alphabet": "aăâbcdđeêghiklmnoôơpqrstuưvxyàáảãạ"
+    }
+  }
+}
