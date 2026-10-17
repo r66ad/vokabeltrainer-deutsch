@@ -566,5 +566,152 @@
       ],
       "emphasis": "Zug"
     }
+  },
+  {
+    "id": "de-pron-25",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "Aussprache",
+    "back": "cách phát âm",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "AU-sprache: au ist ein Doppellaut; spr klingt wie sch + p + r. Das ch klingt wie in „Bach“. Keine Zusatzvokale in der Konsonantengruppe.",
+      "hint_vi": "Nhấn âm tiết đầu. „au“ là nguyên âm đôi; „spr“ gồm các âm sch + p + r liền nhau. „ch“ phát âm như trong „Bach“. Không chèn nguyên âm giữa các phụ âm.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Aussprache",
+          "translation": "cách phát âm",
+          "audio": "content/vocab/audio/clips/de-pron-25-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-26",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "Deutsch",
+    "back": "tiếng Đức",
+    "pronunciation": {
+      "topic": "Doppellaute und Wortenden",
+      "hint_de": "eu klingt wie oi. Am Ende t + sch direkt verbinden; keine zusätzliche Silbe anhängen.",
+      "hint_vi": "„eu“ nghe gần như oi. Nối liền t + sch ở cuối từ; không thêm âm tiết.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Deutsch",
+          "translation": "tiếng Đức",
+          "audio": "content/vocab/audio/clips/de-pron-26-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-27",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "Brötchen",
+    "back": "bánh mì nhỏ",
+    "pronunciation": {
+      "topic": "Ö und Ich-Laut",
+      "hint_de": "Betone BRÖT. ö ist lang: Zunge wie bei e, Lippen gerundet. t und den weichen Ich-Laut direkt verbinden.",
+      "hint_vi": "Nhấn BRÖT. Âm ö dài: đặt lưỡi như khi nói e nhưng tròn môi. Nối âm t với âm ch nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Brötchen",
+          "translation": "bánh mì nhỏ",
+          "audio": "content/vocab/audio/clips/de-pron-27-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-28",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "Frühstück",
+    "back": "bữa sáng",
+    "pronunciation": {
+      "topic": "Ü und Konsonantenverbindungen",
+      "hint_de": "Betone FRÜH. Das erste ü ist lang, das zweite kurz. st am Anfang von „stück“ klingt wie sch + t; ck am Ende wie k.",
+      "hint_vi": "Nhấn FRÜH. Âm ü đầu dài, âm ü thứ hai ngắn. Tròn môi khi đặt lưỡi như âm i. „st“ đầu „stück“ là sch + t; „ck“ cuối là k.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Frühstück",
+          "translation": "bữa sáng",
+          "audio": "content/vocab/audio/clips/de-pron-28-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-29",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "zwölf",
+    "back": "mười hai",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "z = t + s; danach direkt w wie deutsches v in „Vase“. ö ist kurz und offen. Am Ende l + f vollständig sprechen.",
+      "hint_vi": "„z“ là t + s, nối ngay với „w“ (âm v). Âm ö ngắn, miệng mở hơn so với ö dài. Phát âm đủ l + f ở cuối.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "zwölf",
+          "translation": "mười hai",
+          "audio": "content/vocab/audio/clips/de-pron-29-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-30",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "rechts",
+    "back": "bên phải",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "Kurzes e; ch wie in „ich“, danach t + s. Die Endgruppe ohne eingeschobenen Vokal sprechen.",
+      "hint_vi": "Âm e ngắn; ch như trong „ich“, sau đó là t + s. Không chèn nguyên âm vào nhóm phụ âm cuối.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "rechts",
+          "translation": "bên phải",
+          "audio": "content/vocab/audio/clips/de-pron-30-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-31",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 7,
+    "front": "Eichhörnchen",
+    "back": "con sóc",
+    "pronunciation": {
+      "topic": "Ich-Laut und Ö",
+      "hint_de": "Betone EICH. ei klingt wie ai; beide ch sind weiche Ich-Laute. ö ist kurz; übe langsam Eich–hörn–chen.",
+      "hint_vi": "Nhấn EICH. „ei“ nghe gần như ai; cả hai „ch“ đều là âm ch nhẹ như trong „ich“. Âm ö ngắn; tập chậm Eich–hörn–chen.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Eichhörnchen",
+          "translation": "con sóc",
+          "audio": "content/vocab/audio/clips/de-pron-31-1.mp3"
+        }
+      ]
+    }
   }
 ]
