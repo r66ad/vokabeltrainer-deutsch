@@ -944,5 +944,131 @@
         }
       ]
     }
+  },
+  {
+    "id": "de-pron-43",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "Knochen",
+    "back": "xương",
+    "pronunciation": {
+      "topic": "Kn und Ach-Laut",
+      "hint_de": "Betone KNO. k und n direkt verbinden, ohne Zusatzvokal. Das o ist kurz; ch ist der kräftige Ach-Laut wie in „Bach“.",
+      "hint_vi": "Nhấn KNO. Nối k và n, không chèn nguyên âm. Âm o ngắn; ch là âm xát phía sau như trong „Bach“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Knochen",
+          "translation": "xương",
+          "audio": "content/vocab/audio/clips/de-pron-43-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-44",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "lächeln",
+    "back": "mỉm cười",
+    "pronunciation": {
+      "topic": "Ich-Laut und Wortenden",
+      "hint_de": "Betone LÄ. ä ist kurz und offen; ch ist der weiche Ich-Laut. Die Endung -eln unbetont sprechen, ohne eine zusätzliche Silbe anzuhängen.",
+      "hint_vi": "Nhấn LÄ. Âm ä ngắn và mở; ch là âm nhẹ như trong „ich“. Đuôi -eln không nhấn, không thêm âm tiết ở cuối.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "lächeln",
+          "translation": "mỉm cười",
+          "audio": "content/vocab/audio/clips/de-pron-44-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-45",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "ich möchte",
+    "back": "tôi muốn",
+    "pronunciation": {
+      "topic": "Ö und Ich-Laut",
+      "hint_de": "Beide ch sind weiche Ich-Laute. ö in „möchte“ ist kurz: Zunge wie bei offenem e, Lippen gerundet. t hörbar sprechen und die Endsilbe -te kurz halten.",
+      "hint_vi": "Cả hai ch đều là âm nhẹ như trong „ich“. Âm ö trong „möchte“ ngắn: lưỡi như âm e mở, môi tròn. Phát âm rõ t, giữ âm tiết -te ngắn.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "ich möchte",
+          "translation": "tôi muốn",
+          "audio": "content/vocab/audio/clips/de-pron-45-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-46",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "Oberflächen",
+    "back": "các bề mặt",
+    "pronunciation": {
+      "topic": "Lange Wörter und Ich-Laut",
+      "hint_de": "Übe O–ber–flä–chen. Hauptbetonung auf O, mit langem o. f und l direkt verbinden. ä ist kurz; ch ist der weiche Ich-Laut.",
+      "hint_vi": "Tập O–ber–flä–chen. Nhấn chính O, âm o dài. Nối liền f và l. Âm ä ngắn; ch nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Oberflächen",
+          "translation": "các bề mặt",
+          "audio": "content/vocab/audio/clips/de-pron-46-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-47",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "Kochen",
+    "back": "việc nấu ăn",
+    "pronunciation": {
+      "topic": "Ach-Laut und Konsonanten",
+      "hint_de": "Betone KO, mit kurzem o. ch ist der Ach-Laut wie in „Bach“. Vergleiche „Kochen“ und „Knochen“: Nur „Knochen“ hat ein n direkt nach k.",
+      "hint_vi": "Nhấn KO, âm o ngắn. ch là âm phía sau như trong „Bach“. So sánh „Kochen“ và „Knochen“: chỉ „Knochen“ có n ngay sau k.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Kochen",
+          "translation": "việc nấu ăn",
+          "audio": "content/vocab/audio/clips/de-pron-47-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-48",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 9,
+    "front": "trinken",
+    "back": "uống",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Betone TRIN, mit kurzem i. t und r direkt verbinden. n vor k wird wie ng gesprochen, danach folgt ein hörbares k.",
+      "hint_vi": "Nhấn TRIN, âm i ngắn. Nối liền t và r. n trước k phát âm như ng, sau đó có âm k rõ.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "trinken",
+          "translation": "uống",
+          "audio": "content/vocab/audio/clips/de-pron-48-1.mp3"
+        }
+      ]
+    }
   }
 ]
