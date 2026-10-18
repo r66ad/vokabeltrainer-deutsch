@@ -1070,5 +1070,173 @@
         }
       ]
     }
+  },
+  {
+    "id": "de-pron-49",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Richard",
+    "back": "Richard (tên riêng)",
+    "pronunciation": {
+      "topic": "Namen und Ich-Laut",
+      "hint_de": "Deutsche Aussprache: Betone RI, mit kurzem i. ch ist der weiche Ich-Laut. Das d am Ende klingt wie t.",
+      "hint_vi": "Cách đọc tiếng Đức: nhấn RI, âm i ngắn. ch nhẹ như trong „ich“. Chữ d cuối tên đọc như t.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Richard",
+          "translation": "Richard (tên riêng)",
+          "audio": "content/vocab/audio/clips/de-pron-49-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-50",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Entzündungsmerkmale",
+    "back": "các dấu hiệu viêm",
+    "pronunciation": {
+      "topic": "Lange Fachwörter",
+      "hint_de": "Zerlege in Ent–zün–dungs–merk–ma–le. Hauptbetonung auf ZÜN. z = t + s; ü ist kurz und gerundet. ng ist ein Nasallaut, danach folgt s.",
+      "hint_vi": "Chia thành Ent–zün–dungs–merk–ma–le. Nhấn chính ZÜN. z là t + s; ü ngắn, môi tròn. ng là âm mũi, sau đó nối với s.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Entzündungsmerkmale",
+          "translation": "các dấu hiệu viêm",
+          "audio": "content/vocab/audio/clips/de-pron-50-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-51",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Röntgenbild",
+    "back": "hình ảnh X-quang",
+    "pronunciation": {
+      "topic": "Ö und Wortenden",
+      "hint_de": "Betone RÖNT. ö ist kurz und offen, mit gerundeten Lippen. Übe Röntgen–bild langsam; das d am Ende klingt wie t.",
+      "hint_vi": "Nhấn RÖNT. Âm ö ngắn và mở, môi tròn. Tập chậm Röntgen–bild; d cuối từ đọc như t.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Röntgenbild",
+          "translation": "hình ảnh X-quang",
+          "audio": "content/vocab/audio/clips/de-pron-51-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-52",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Rötung",
+    "back": "sự đỏ; tình trạng đỏ",
+    "pronunciation": {
+      "topic": "Ö und ng",
+      "hint_de": "Betone RÖ. ö ist lang: Zunge wie bei e, Lippen gerundet. ng am Ende ist ein einziger Nasallaut, ohne zusätzliches g oder k.",
+      "hint_vi": "Nhấn RÖ. Âm ö dài: lưỡi như khi nói e, môi tròn. ng cuối từ là một âm mũi, không thêm g hoặc k.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Rötung",
+          "translation": "sự đỏ; tình trạng đỏ",
+          "audio": "content/vocab/audio/clips/de-pron-52-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-53",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Abwehrzellen",
+    "back": "tế bào bảo vệ cơ thể",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Zerlege in Ab–wehr–zel–len; Hauptbetonung auf AB. b vor w klingt wie p. w klingt wie v; z wie t + s. Das e in „Zellen“ ist kurz.",
+      "hint_vi": "Chia thành Ab–wehr–zel–len; nhấn chính AB. b trước w đọc như p. w là âm v; z là t + s. Âm e trong „Zellen“ ngắn.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Abwehrzellen",
+          "translation": "tế bào bảo vệ cơ thể",
+          "audio": "content/vocab/audio/clips/de-pron-53-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-54",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Entzündungsort",
+    "back": "vị trí viêm",
+    "pronunciation": {
+      "topic": "Ü und Wortverbindungen",
+      "hint_de": "Zerlege in Ent–zün–dungs–ort; betone ZÜN. ü ist kurz und gerundet. Sprich das s vor „Ort“ mit und halte das t am Ende hörbar.",
+      "hint_vi": "Chia thành Ent–zün–dungs–ort; nhấn ZÜN. Âm ü ngắn, môi tròn. Phát âm đủ s trước „Ort“ và t cuối từ.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Entzündungsort",
+          "translation": "vị trí viêm",
+          "audio": "content/vocab/audio/clips/de-pron-54-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-55",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Abwehrreaktionen",
+    "back": "các phản ứng bảo vệ của cơ thể",
+    "pronunciation": {
+      "topic": "Lange Fachwörter",
+      "hint_de": "Übe Abwehr–Reaktionen; Hauptbetonung auf AB. In „Reaktionen“ liegt die Teilwortbetonung auf O: Re–ak–ti–O–nen. tion klingt wie ts + j + langes o + n.",
+      "hint_vi": "Tập Abwehr–Reaktionen; nhấn chính AB. Riêng „Reaktionen“ nhấn O: Re–ak–ti–O–nen. tion đọc như ts + j (gần âm y) + o dài + n.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Abwehrreaktionen",
+          "translation": "các phản ứng bảo vệ của cơ thể",
+          "audio": "content/vocab/audio/clips/de-pron-55-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-56",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 10,
+    "front": "Saumepithel",
+    "back": "biểu mô nối (ở nướu)",
+    "pronunciation": {
+      "topic": "Fachwörter und Doppellaute",
+      "hint_de": "Zerlege in Saum–E–pi–thel; Hauptbetonung auf SAUM. s am Anfang ist stimmhaft, au ein Doppellaut. In „Epithel“ betont man THEL: th = t, e lang.",
+      "hint_vi": "Chia thành Saum–E–pi–thel; nhấn chính SAUM. s đầu từ là âm hữu thanh, au là nguyên âm đôi. Riêng „Epithel“ nhấn THEL: th là t, e dài.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Saumepithel",
+          "translation": "biểu mô nối (ở nướu)",
+          "audio": "content/vocab/audio/clips/de-pron-56-1.mp3"
+        }
+      ]
+    }
   }
 ]
