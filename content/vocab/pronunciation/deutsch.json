@@ -713,5 +713,236 @@
         }
       ]
     }
+  },
+  {
+    "id": "de-pron-32",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Plaque",
+    "back": "mảng bám răng",
+    "pronunciation": {
+      "topic": "Fachwörter",
+      "hint_de": "Im Zahnmedizin-Kontext: wie „Plak“, nur eine Silbe. qu klingt hier wie k, das e bleibt stumm. p und l direkt verbinden.",
+      "hint_vi": "Trong nha khoa: đọc gần như „Plak“, chỉ một âm tiết. „qu“ là k, e không phát âm. Nối liền p và l.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Plaque",
+          "translation": "mảng bám răng",
+          "audio": "content/vocab/audio/clips/de-pron-32-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-33",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Prüfung",
+    "back": "kỳ thi; sự kiểm tra",
+    "pronunciation": {
+      "topic": "Ü und ng",
+      "hint_de": "Betone PRÜ. ü ist lang: Zunge wie bei i, Lippen gerundet. ng ist ein einziger Nasallaut, ohne zusätzliches g oder k.",
+      "hint_vi": "Nhấn PRÜ. Âm ü dài: lưỡi như khi nói i, môi tròn. „ng“ là một âm mũi, không thêm g hoặc k.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Prüfung",
+          "translation": "kỳ thi; sự kiểm tra",
+          "audio": "content/vocab/audio/clips/de-pron-33-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-34",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "deshalb",
+    "back": "vì vậy",
+    "pronunciation": {
+      "topic": "Wortenden",
+      "hint_de": "Betone DES. Das s ist stimmlos. Am Wortende klingt b wie p; l und p ohne Zusatzvokal verbinden.",
+      "hint_vi": "Nhấn DES. Âm s vô thanh. Chữ b cuối từ đọc như p; nối l và p, không chèn nguyên âm.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "deshalb",
+          "translation": "vì vậy",
+          "audio": "content/vocab/audio/clips/de-pron-34-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-35",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "egal",
+    "back": "không quan trọng; như nhau",
+    "pronunciation": {
+      "topic": "Betonung und Vokallänge",
+      "hint_de": "Betone GAL. Das a ist lang. Sprich das l am Ende deutlich, ohne eine weitere Silbe anzuhängen.",
+      "hint_vi": "Nhấn GAL. Âm a dài. Phát âm rõ l cuối từ, không thêm âm tiết.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "egal",
+          "translation": "không quan trọng; như nhau",
+          "audio": "content/vocab/audio/clips/de-pron-35-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-36",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "abspülbar",
+    "back": "có thể rửa trôi",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Betone AB. Übe ab–spül–bar: b vor s klingt wie p, sp in „spül“ wie sch + p. ü ist lang und gerundet.",
+      "hint_vi": "Nhấn AB. Tập ab–spül–bar: b trước s đọc như p, sp trong „spül“ là sch + p. Âm ü dài, môi tròn.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "abspülbar",
+          "translation": "có thể rửa trôi",
+          "audio": "content/vocab/audio/clips/de-pron-36-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-37",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Epithelzellen",
+    "back": "tế bào biểu mô",
+    "pronunciation": {
+      "topic": "Fachwörter",
+      "hint_de": "Übe E–pi–thel–zel–len. Hauptbetonung auf THEL, mit langem e. th klingt einfach wie t; z wie t + s. Das e in „Zellen“ ist kurz.",
+      "hint_vi": "Tập E–pi–thel–zel–len. Nhấn chính THEL, âm e dài. „th“ chỉ là t; z là t + s. Âm e trong „Zellen“ ngắn.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Epithelzellen",
+          "translation": "tế bào biểu mô",
+          "audio": "content/vocab/audio/clips/de-pron-37-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-38",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Pellikel",
+    "back": "màng mỏng phủ bề mặt răng",
+    "pronunciation": {
+      "topic": "Fachwörter",
+      "hint_de": "Übe langsam Pel–li–kel. Doppel-l bedeutet keinen zusätzlichen Laut. Am Ende k und l nicht durch einen kräftigen Zusatzvokal trennen.",
+      "hint_vi": "Tập chậm Pel–li–kel. Hai chữ l không tạo thêm một âm riêng. Cuối từ, không chèn nguyên âm mạnh giữa k và l.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Pellikel",
+          "translation": "màng mỏng phủ bề mặt răng",
+          "audio": "content/vocab/audio/clips/de-pron-38-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-39",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Stoffwechselendprodukte",
+    "back": "sản phẩm cuối của quá trình chuyển hóa",
+    "pronunciation": {
+      "topic": "Lange zusammengesetzte Wörter",
+      "hint_de": "Zerlege in Stoff–wechsel–end–produkte. Hauptbetonung auf STOFF. st am Wortanfang = sch + t; chs in „Wechsel“ = k + s. In „Produkte“ die Silbe DUK deutlich sprechen.",
+      "hint_vi": "Chia thành Stoff–wechsel–end–produkte. Nhấn chính STOFF. st đầu từ là sch + t; chs trong „Wechsel“ là k + s. Trong „Produkte“, phát âm rõ âm tiết DUK.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Stoffwechselendprodukte",
+          "translation": "sản phẩm cuối của quá trình chuyển hóa",
+          "audio": "content/vocab/audio/clips/de-pron-39-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-40",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Nahrungsreste",
+    "back": "thức ăn còn sót lại",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Betone NAH, mit langem a. Übe Nahrungs–reste. ng ist ein Nasallaut; danach s direkt anschließen. st in „Reste“ bleibt s + t.",
+      "hint_vi": "Nhấn NAH, âm a dài. Tập Nahrungs–reste. ng là âm mũi, nối ngay với s. st trong „Reste“ vẫn là s + t.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Nahrungsreste",
+          "translation": "thức ăn còn sót lại",
+          "audio": "content/vocab/audio/clips/de-pron-40-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-41",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "Zahnstein",
+    "back": "cao răng",
+    "pronunciation": {
+      "topic": "Konsonantenverbindungen",
+      "hint_de": "Betone ZAHN. z klingt wie t + s; a ist lang. „Stein“ beginnt mit sch + t, ei klingt wie ai.",
+      "hint_vi": "Nhấn ZAHN. z là t + s; a dài. „Stein“ bắt đầu bằng sch + t, ei nghe gần như ai.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Zahnstein",
+          "translation": "cao răng",
+          "audio": "content/vocab/audio/clips/de-pron-41-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-42",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 8,
+    "front": "bildet sich",
+    "back": "hình thành",
+    "pronunciation": {
+      "topic": "Wortverbindungen",
+      "hint_de": "Übe bil–det sich. Das i in beiden Wörtern ist kurz. Sprich die Endung -det mit; ch in „sich“ ist der weiche Ich-Laut.",
+      "hint_vi": "Tập bil–det sich. Âm i trong cả hai từ đều ngắn. Phát âm đủ đuôi -det; ch trong „sich“ là âm ch nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "bildet sich",
+          "translation": "hình thành",
+          "audio": "content/vocab/audio/clips/de-pron-42-1.mp3"
+        }
+      ]
+    }
   }
 ]
