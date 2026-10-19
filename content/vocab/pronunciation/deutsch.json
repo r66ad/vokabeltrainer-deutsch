@@ -1238,5 +1238,110 @@
         }
       ]
     }
+  },
+  {
+    "id": "de-pron-57",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 11,
+    "front": "pünktlich",
+    "back": "đúng giờ",
+    "pronunciation": {
+      "topic": "Ü und Konsonantenverbindungen",
+      "hint_de": "Betone PÜNKT. ü ist kurz: Zunge wie bei i, Lippen gerundet. n vor k klingt wie ng; k und t mitsprechen. ch am Ende ist der weiche Ich-Laut.",
+      "hint_vi": "Nhấn PÜNKT. Âm ü ngắn: lưỡi như khi nói i, môi tròn. n trước k nghe như ng; phát âm đủ k và t. ch cuối từ nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "pünktlich",
+          "translation": "đúng giờ",
+          "audio": "content/vocab/audio/clips/de-pron-57-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-58",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 11,
+    "front": "wirklich wichtig",
+    "back": "thực sự quan trọng",
+    "pronunciation": {
+      "topic": "Ich-Laut und Wortverbindungen",
+      "hint_de": "Betone WIRK und WICH. Beide w klingen wie v. Die i-Laute sind kurz. Sprich k und l in „wirklich“ direkt hintereinander. Alle ch sind weiche Ich-Laute; auch -ig in „wichtig“ klingt in der Standardaussprache wie -ich.",
+      "hint_vi": "Nhấn WIRK và WICH. Cả hai w là âm v. Các âm i đều ngắn. Nối k và l trong „wirklich“. Mọi ch đều nhẹ như trong „ich“; đuôi -ig của „wichtig“ trong cách đọc chuẩn cũng như -ich.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "wirklich wichtig",
+          "translation": "thực sự quan trọng",
+          "audio": "content/vocab/audio/clips/de-pron-58-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-59",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 11,
+    "front": "wahrscheinlich",
+    "back": "có lẽ; có khả năng",
+    "pronunciation": {
+      "topic": "Betonung und sch/ch",
+      "hint_de": "Betone SCHEIN. w klingt wie v; a ist lang. sch ist ein einziger Laut, ei klingt wie ai. Das letzte ch ist der weiche Ich-Laut.",
+      "hint_vi": "Nhấn SCHEIN. w là âm v; a dài. sch là một âm duy nhất, ei nghe gần như ai. ch cuối là âm nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "wahrscheinlich",
+          "translation": "có lẽ; có khả năng",
+          "audio": "content/vocab/audio/clips/de-pron-59-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-60",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 11,
+    "front": "Wittlich",
+    "back": "Wittlich (tên thành phố ở Đức)",
+    "pronunciation": {
+      "topic": "Ortsnamen und Ich-Laut",
+      "hint_de": "Betone WITT, mit kurzem i. w klingt wie v. Doppel-t bedeutet keinen zusätzlichen Laut: t und l direkt verbinden. ch am Ende ist der weiche Ich-Laut.",
+      "hint_vi": "Nhấn WITT, âm i ngắn. w là âm v. Hai chữ t không tạo thêm âm riêng: nối t và l. ch cuối nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "Wittlich",
+          "translation": "Wittlich (tên thành phố ở Đức)",
+          "audio": "content/vocab/audio/clips/de-pron-60-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-61",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 11,
+    "front": "glücklich",
+    "back": "hạnh phúc; may mắn",
+    "pronunciation": {
+      "topic": "Ü und Konsonantenverbindungen",
+      "hint_de": "Betone GLÜCK. g und l direkt verbinden. ü ist kurz und gerundet. ck klingt wie ein k; danach l ohne Zusatzvokal anschließen. ch am Ende ist der weiche Ich-Laut.",
+      "hint_vi": "Nhấn GLÜCK. Nối liền g và l. Âm ü ngắn, môi tròn. ck là một âm k; nối với l, không chèn nguyên âm. ch cuối nhẹ như trong „ich“.",
+      "audio_source": "Synthetisches Vorbild · deutsche Systemstimme Anna",
+      "variants": [
+        {
+          "text": "glücklich",
+          "translation": "hạnh phúc; may mắn",
+          "audio": "content/vocab/audio/clips/de-pron-61-1.mp3"
+        }
+      ]
+    }
   }
 ]
