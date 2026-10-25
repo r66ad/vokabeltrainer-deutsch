@@ -1343,5 +1343,362 @@
         }
       ]
     }
+  },
+  {
+    "id": "de-pron-62",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "drauf beißen",
+    "back": "cắn vào đó",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "au und ei sind Doppellaute; ß ist stimmloses s. Das f in drauf hörbar lassen.",
+      "hint_vi": "au và ei là nguyên âm đôi; ß là s vô thanh. Giữ âm f cuối „drauf“.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "drauf beißen",
+          "translation": "cắn vào đó",
+          "audio": "content/vocab/audio/clips/de-pron-62-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-63",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Gerolstein",
+    "back": "Gerolstein (tên thành phố ở Đức)",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Ge–ROL–stein: Betonung auf ROL; stein beginnt mit scht, ei klingt wie ai.",
+      "hint_vi": "Ge–ROL–stein: nhấn ROL; stein bắt đầu bằng scht, ei nghe gần như ai.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Gerolstein",
+          "translation": "Gerolstein (tên thành phố ở Đức)",
+          "audio": "content/vocab/audio/clips/de-pron-63-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-64",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Wundirritation",
+    "back": "sự kích ứng vết thương",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Wund–Irritation: w wie v; -tion klingt wie tsion, betont wird die Endung -TION.",
+      "hint_vi": "w là âm v; -tion đọc gần như tsion và được nhấn. Tách Wund–Irritation để luyện.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Wundirritation",
+          "translation": "sự kích ứng vết thương",
+          "audio": "content/vocab/audio/clips/de-pron-64-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-65",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Zahnextraktion",
+    "back": "nhổ răng",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Zahn–Ex–trak–TION: z wie ts, x wie ks. a in Zahn ist lang; -tion wie tsion.",
+      "hint_vi": "z là ts, x là ks; a trong Zahn dài. Nhấn TION, đọc gần như tsion.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Zahnextraktion",
+          "translation": "nhổ răng",
+          "audio": "content/vocab/audio/clips/de-pron-65-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-66",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Kontraindikation",
+    "back": "chống chỉ định",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Kon–tra–In–di–ka–TION: Betonung auf TION. Die Vokale an der Grenze tra–in getrennt hörbar machen.",
+      "hint_vi": "Nhấn TION. Giữ rõ hai nguyên âm ở chỗ nối tra–in; không nuốt âm.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Kontraindikation",
+          "translation": "chống chỉ định",
+          "audio": "content/vocab/audio/clips/de-pron-66-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-67",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Osteoporose-Spritze",
+    "back": "thuốc tiêm điều trị loãng xương",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Os–te–o–po–RO–se: ro betonen. Spritze beginnt mit schp; i ist kurz und tz klingt wie ts.",
+      "hint_vi": "Trong Osteoporose nhấn RO. Spritze bắt đầu bằng schp; i ngắn, tz là ts.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Osteoporose-Spritze",
+          "translation": "thuốc tiêm điều trị loãng xương",
+          "audio": "content/vocab/audio/clips/de-pron-67-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-68",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Fraktur",
+    "back": "gãy xương",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Frak–TUR: Betonung auf TUR, u lang. f und r ohne Zusatzvokal verbinden.",
+      "hint_vi": "Nhấn TUR, u dài. Nối f và r, không chèn nguyên âm.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Fraktur",
+          "translation": "gãy xương",
+          "audio": "content/vocab/audio/clips/de-pron-68-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-69",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Lokalanästhesie",
+    "back": "gây tê tại chỗ",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Lo–kal–An–äs–the–SIE: Betonung auf SIE, ie lang. th wird wie t gesprochen.",
+      "hint_vi": "Nhấn SIE, ie dài. th đọc như t; chia từ thành từng phần để luyện.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Lokalanästhesie",
+          "translation": "gây tê tại chỗ",
+          "audio": "content/vocab/audio/clips/de-pron-69-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-70",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "kürettieren",
+    "back": "nạo bằng dụng cụ nạo (curette)",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Kü–ret–TIE–ren: Betonung auf TIE, ie lang. Für ü die Zunge wie bei i halten und die Lippen runden.",
+      "hint_vi": "Nhấn TIE, ie dài. Với ü: lưỡi như khi nói i, môi tròn.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "kürettieren",
+          "translation": "nạo bằng dụng cụ nạo (curette)",
+          "audio": "content/vocab/audio/clips/de-pron-70-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-71",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Granulationsgewebe",
+    "back": "mô hạt",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Gra–nu–la–TIONS–ge–WE–be: -tions- wie tsions; das s vor g nicht weglassen. w wie v.",
+      "hint_vi": "-tions- đọc gần như tsions; giữ âm s trước g. w là âm v; luyện từng phần rồi nối lại.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Granulationsgewebe",
+          "translation": "mô hạt",
+          "audio": "content/vocab/audio/clips/de-pron-71-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-72",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Frontzahnzange",
+    "back": "kìm nhổ răng trước",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "FRONT–Zahn–Zange: z jeweils wie ts. a in Zahn lang, a in Zange kurz; ng ist ein Nasallaut.",
+      "hint_vi": "z đều là ts. a trong Zahn dài, trong Zange ngắn; ng là một âm mũi.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Frontzahnzange",
+          "translation": "kìm nhổ răng trước",
+          "audio": "content/vocab/audio/clips/de-pron-72-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-73",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Griff",
+    "back": "cán; tay cầm",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Kurzes i. g und r ohne Zusatzvokal verbinden; ff wird als ein f gesprochen.",
+      "hint_vi": "i ngắn. Nối g và r không chèn nguyên âm; ff là một âm f.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Griff",
+          "translation": "cán; tay cầm",
+          "audio": "content/vocab/audio/clips/de-pron-73-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-74",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Brief",
+    "back": "lá thư",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Langes ie, anders als das kurze i in Griff. b und r direkt verbinden; f am Ende hörbar lassen.",
+      "hint_vi": "ie dài, khác i ngắn trong Griff. Nối b và r; giữ rõ f cuối từ.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Brief",
+          "translation": "lá thư",
+          "audio": "content/vocab/audio/clips/de-pron-74-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-75",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Sharpey-Fasern",
+    "back": "sợi Sharpey",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Sharpey ist ein englischer Eigenname: sh wie sch, die Endung -ey ungefähr wie i. In Fasern ist a lang und s stimmhaft.",
+      "hint_vi": "Sharpey là tên riêng tiếng Anh: sh như sch, đuôi -ey gần âm i. Trong Fasern, a dài và s hữu thanh.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Sharpey-Fasern",
+          "translation": "sợi Sharpey",
+          "audio": "content/vocab/audio/clips/de-pron-75-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-76",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Krallenhebel nach Barry",
+    "back": "bẩy nhổ răng dạng móng vuốt kiểu Barry",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "KRAL–len–he–bel: a kurz, e in Hebel lang. nach hat den hinteren Ach-Laut; Barry ist ein Eigenname.",
+      "hint_vi": "a trong Krallen ngắn, e trong Hebel dài. ch trong nach phát âm phía sau miệng; Barry là tên riêng.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Krallenhebel nach Barry",
+          "translation": "bẩy nhổ răng dạng móng vuốt kiểu Barry",
+          "audio": "content/vocab/audio/clips/de-pron-76-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-77",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Bajonetthebel nach Flohr",
+    "back": "bẩy nhổ răng dạng lưỡi lê kiểu Flohr",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "Ba–jo–NETT–he–bel: j wie in ja, e in nett kurz. Flohr mit langem o; h bleibt stumm.",
+      "hint_vi": "j như trong „ja“, e trong nett ngắn. Flohr có o dài; h không phát âm.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Bajonetthebel nach Flohr",
+          "translation": "bẩy nhổ răng dạng lưỡi lê kiểu Flohr",
+          "audio": "content/vocab/audio/clips/de-pron-77-1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de-pron-78",
+    "kind": "pronunciation",
+    "level": "beginner",
+    "introduced_day": 12,
+    "front": "Hohlmeißelhebel nach Bein",
+    "back": "bẩy nhổ răng dạng đục lòng máng kiểu Bein",
+    "pronunciation": {
+      "topic": "Alltag und zahnmedizinische Fachwörter",
+      "hint_de": "HOHL–Meißel–Hebel: o in Hohl lang; ei in Meißel und Bein wie ai. ß ist stimmloses s.",
+      "hint_vi": "o trong Hohl dài; ei trong Meißel và Bein nghe gần như ai. ß là s vô thanh.",
+      "audio_source": "KI-generiert · OpenAI gpt-4o-mini-tts · marin",
+      "variants": [
+        {
+          "text": "Hohlmeißelhebel nach Bein",
+          "translation": "bẩy nhổ răng dạng đục lòng máng kiểu Bein",
+          "audio": "content/vocab/audio/clips/de-pron-78-1.mp3"
+        }
+      ]
+    }
   }
 ]
